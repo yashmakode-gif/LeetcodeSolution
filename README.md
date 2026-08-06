@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
