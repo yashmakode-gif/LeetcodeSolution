@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
