@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
