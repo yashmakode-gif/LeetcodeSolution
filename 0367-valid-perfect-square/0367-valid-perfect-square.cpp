@@ -4,7 +4,7 @@ public:
         int low=1;
         int high = num;
         while(low<=high){
-            long mid= low + (high-low)/2;
+            long long mid= low + (high-low)/2;
             long long square = mid*mid;
             if(square==num){
                 return true;
