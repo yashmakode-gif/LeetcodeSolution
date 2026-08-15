@@ -26,9 +26,7 @@ void qs(vector<int>&arr ,int low,int high){
     }
 }
 vector<int> sortArray(vector<int>& nums) {
-
         qs(nums, 0, nums.size() - 1);
-
         return nums;
     }
 };
