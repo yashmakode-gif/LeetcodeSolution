@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0027-remove-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0912-sort-an-array) |
 ## Counting
