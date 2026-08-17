@@ -7,7 +7,7 @@ public:
             freq[x]++;
         }
 
-        for (auto x : nums) {
+        for (int x : nums) {
             if (freq[x] == 1) {
                 sum += x;
             }
