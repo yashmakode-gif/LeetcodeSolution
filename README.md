@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0414-third-maximum-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -154,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
