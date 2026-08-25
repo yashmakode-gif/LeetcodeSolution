@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
