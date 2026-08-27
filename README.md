@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1748-sum-of-unique-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
