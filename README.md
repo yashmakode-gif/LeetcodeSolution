@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 ## Recursion
 |  |
