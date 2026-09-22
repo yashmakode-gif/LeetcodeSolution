@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1748-sum-of-unique-elements) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
