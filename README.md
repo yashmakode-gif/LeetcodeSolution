@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1436-destination-city) |
