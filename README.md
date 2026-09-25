@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0724-find-pivot-index) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
