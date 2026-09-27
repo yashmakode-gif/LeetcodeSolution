@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0344-reverse-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0263-ugly-number) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0268-missing-number) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
