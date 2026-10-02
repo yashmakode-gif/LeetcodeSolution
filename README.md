@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2525-categorize-box-according-to-criteria](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/2525-categorize-box-according-to-criteria) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
