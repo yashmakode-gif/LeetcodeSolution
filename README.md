@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0283-move-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -269,4 +271,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
