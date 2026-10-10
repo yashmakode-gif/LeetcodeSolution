@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/1436-destination-city) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/0415-add-strings) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/yashmakode-gif/LeetcodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Newton's Method
 |  |
